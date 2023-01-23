@@ -1,5 +1,5 @@
 Para jogar basta o usuário carregar a página, liberar o acesso ao microfone no navegador e começar a tentar advinhar o número secreto.
 A cada chute aparece uma dica informando se o número é maior ou menor que o informado.
 
-Para jogar, basta acessar a página:
+Página do jogo:
 https://jogo-numero-secreto-mocha.vercel.app/
